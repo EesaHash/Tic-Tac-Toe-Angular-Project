@@ -1,9 +1,12 @@
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
-Before running the server, install all the dependencies using "npm install" in the project directory
+
+Project uses tailwind CSS for most of the design elements in conjunction with SCSS
+
 
 ## Development server
+Before running the server, install all the dependencies using "npm install" in the project directory
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
