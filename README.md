@@ -1,6 +1,7 @@
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+Before running the server, install all the dependencies using "npm install" in the project directory
 
 ## Development server
 
